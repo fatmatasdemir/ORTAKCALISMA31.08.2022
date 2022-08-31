@@ -17,7 +17,31 @@ public class OkulIslemleri {
 
         }
     }
+
+
+         */
+     /*
+    ÖGRENCI NOTLARI EKLEME  ====>> MIHRICAN HOCAM
+
+     private String ogrenciNo;
+        private String sinifNO;
+     private String ogrenciNOTLARI;
+
+    public Ogrenci(String adSoyad, String kimlikNo, int yas, String ogrenciNo, String sinifNO,int ogrenci notlari ) {
+            super(adSoyad, kimlikNo, yas);
+            this.ogrenciNo = ogrenciNo;
+            this.sinifno = sinifno;
+            this.ogrenciNotlari=ogrenciNotlari;
+
     */
+
+
+
+
+
+
+
+
 
 
         /* ÖGRETMEN EKLEME ======>>> MEHMET AKIN
