@@ -2,7 +2,7 @@ package java;
 
 public class OkulIslemleri {
 
-    public static void main(String[] args) {
+   public static <String> void main(String[] args) {
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
         1
@@ -77,9 +77,9 @@ public class OkulIslemleri {
 
 
 
-    }
 
-}
+
+
 
 
 
