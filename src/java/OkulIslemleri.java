@@ -38,11 +38,6 @@ public class OkulIslemleri {
 
 
 
-
-
-
-
-
         /* ÖGRETMEN EKLEME ======>>> MEHMET AKIN
      public Ogretmen(){
         }
