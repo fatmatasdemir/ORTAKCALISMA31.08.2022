@@ -13,6 +13,11 @@ public class OkulIslemleri {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
             this.sinif = sinif;
+
+mihrican purbudak notu=96
+
+         */
+
             ogrenci adi= Ahmet Kaya
 
         }
