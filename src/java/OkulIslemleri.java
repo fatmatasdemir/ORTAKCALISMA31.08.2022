@@ -13,7 +13,7 @@ public class OkulIslemleri {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
             this.sinif = sinif;
-
+            ogrenci adi= Ahmet Kaya
 
         }
     }
