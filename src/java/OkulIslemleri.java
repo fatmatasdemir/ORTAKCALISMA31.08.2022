@@ -18,11 +18,10 @@ public class OkulIslemleri {
         }
     }
 
-
-         */
-     /*
-    ÖGRENCI NOTLARI EKLEME  ====>> MIHRICAN HOCAM
-
+    
+    /*
+    ÖGRENCI NOTLARI EKLEME  ====>> MIHRICAN HOCAM 
+    
      private String ogrenciNo;
         private String sinifNO;
      private String ogrenciNOTLARI;
