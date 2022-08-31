@@ -65,6 +65,8 @@ public class OkulIslemleri {
             this.adSoyad = adSoyad;
             this.kimlikNo = kimlikNo;
             this.yas = yas;
+            Mehmet akin bey
+            mustafa Mat
         }
 
 
