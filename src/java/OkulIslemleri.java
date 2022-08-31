@@ -5,6 +5,7 @@ public class OkulIslemleri {
     public static void main(String[] args) {
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
+        1
         private String ogrenciNo;
         private String sinif;
 
