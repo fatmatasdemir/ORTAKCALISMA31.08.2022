@@ -8,7 +8,7 @@ public class OkulIslemleri {
         1
         private String ogrenciNo;
         private String sinif;
-
+ogrenci adi=Sinem Kara
     public Ogrenci(String adSoyad, String kimlikNo, int yas, String ogrenciNo, String sinif) {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
