@@ -2,13 +2,17 @@ package java;
 
 public class OkulIslemleri {
 
-    public static void main(String[] args) {
+   public static <String> void main(String[] args) {
 
         /* Ögrenci EKLEME  ======>>Shirin Geldiyeva
         1
         private String ogrenciNo;
         private String sinif;
+        
+ogrenci adi=Sinem Kara
+
         ogrenci adi= Ali Can
+
     public Ogrenci(String adSoyad, String kimlikNo, int yas, String ogrenciNo, String sinif) {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
