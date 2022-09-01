@@ -2,18 +2,31 @@ package java;
 
 public class OkulIslemleri {
 
-    public static void main(String[] args) {
+   public static <String> void main(String[] args) {
 
-        /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
+        /* Ögrenci EKLEME  ======>>Shirin Geldiyeva
         1
         private String ogrenciNo;
         private String sinif;
+        1456787
+ogrenci adi=Sinem Kara
+
+        ogrenci adi= Ali Can
 
     public Ogrenci(String adSoyad, String kimlikNo, int yas, String ogrenciNo, String sinif) {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
             this.sinif = sinif;
+<<<<<<< HEAD
        //fatma github 1 sey gonderdi
+=======
+
+mihrican purbudak notu=96
+
+         */
+
+          //  ogrenci adi= Ahmet Kaya
+>>>>>>> c9d17f305ef698e7f30354e2228b076625e510d3
 
         }
     }
@@ -38,12 +51,7 @@ public class OkulIslemleri {
 
 
 
-
-
-
-
-
-        /* ÖGRETMEN EKLEME ======>>> MEHMET AKIN
+        /* ÖGRETMEN EKLEME ======>>> Fatma Kaya
      public Ogretmen(){
         }
 
@@ -70,6 +78,8 @@ public class OkulIslemleri {
             this.adSoyad = adSoyad;
             this.kimlikNo = kimlikNo;
             this.yas = yas;
+            Mehmet akin bey
+            mustafa Mat
         }
 
 
@@ -80,9 +90,9 @@ public class OkulIslemleri {
 
 
 
-    }
 
-}
+
+
 
 
 
