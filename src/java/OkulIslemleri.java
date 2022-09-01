@@ -18,7 +18,7 @@ mihrican purbudak notu=96
 
          */
 
-            ogrenci adi= Ahmet Kaya
+          //  ogrenci adi= Ahmet Kaya
 
         }
     }
@@ -43,7 +43,7 @@ mihrican purbudak notu=96
 
 
 
-        /* ÖGRETMEN EKLEME ======>>> MEHMET AKIN
+        /* ÖGRETMEN EKLEME ======>>> Fatma Kaya
      public Ogretmen(){
         }
 
@@ -82,9 +82,9 @@ mihrican purbudak notu=96
 
 
 
-    }
 
-}
+
+
 
 
 
