@@ -4,11 +4,15 @@ public class OkulIslemleri {
 
    public static <String> void main(String[] args) {
 
-        /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
+        /* Ögrenci EKLEME  ======>>Shirin Geldiyeva
         1
         private String ogrenciNo;
         private String sinif;
+        
 ogrenci adi=Sinem Kara
+
+        ogrenci adi= Ali Can
+
     public Ogrenci(String adSoyad, String kimlikNo, int yas, String ogrenciNo, String sinif) {
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
@@ -18,7 +22,7 @@ mihrican purbudak notu=96
 
          */
 
-            ogrenci adi= Ahmet Kaya
+          //  ogrenci adi= Ahmet Kaya
 
         }
     }
@@ -43,7 +47,7 @@ mihrican purbudak notu=96
 
 
 
-        /* ÖGRETMEN EKLEME ======>>> MEHMET AKIN
+        /* ÖGRETMEN EKLEME ======>>> Fatma Kaya
      public Ogretmen(){
         }
 
