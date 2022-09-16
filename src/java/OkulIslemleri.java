@@ -17,16 +17,15 @@ ogrenci adi=Sinem Kara
             super(adSoyad, kimlikNo, yas);
             this.ogrenciNo = ogrenciNo;
             this.sinif = sinif;
-<<<<<<< HEAD
+
        //fatma github 1 sey gonderdi
-=======
 
 mihrican purbudak notu=96
 
          */
 
           //  ogrenci adi= Ahmet Kaya
->>>>>>> c9d17f305ef698e7f30354e2228b076625e510d3
+
 
         }
     }
